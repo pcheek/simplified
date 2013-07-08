@@ -590,7 +590,7 @@ if($_POST) {
                         <div id="classReference" class="tab-pane">
                             <div class="row-fluid">       
                                 <div class="span4">
-                                    <a href="http://simplify.com/commerce/docs/apidoc/cardToken">
+                                    <a href="https://simplify.com/commerce/docs/apidoc/cardToken">
                                         <i class="icon-credit-card icon-2x icon-large icon-large"></i>
                                         <h4>CardToken</h4>
                                     </a>
@@ -598,7 +598,7 @@ if($_POST) {
                                 </div>
                                 <hr class="hidden-middesk" />
                                 <div class="span4">
-                                    <a href="http://simplify.com/commerce/docs/apidoc/chargeback">
+                                    <a href="https://simplify.com/commerce/docs/apidoc/chargeback">
                                         <i class="icon-legal icon-2x icon-large"></i>
                                         <h4>Chargeback</h4>
                                     </a>
@@ -606,7 +606,7 @@ if($_POST) {
                                 </div>
                                 <hr class="hidden-middesk" />
                                 <div class="span4">
-                                    <a href="http://simplify.com/commerce/docs/apidoc/coupon">
+                                    <a href="https://simplify.com/commerce/docs/apidoc/coupon">
                                         <i class="icon-tag icon-2x icon-large"></i>
                                         <h4>Coupon</h4>
                                     </a>
@@ -616,7 +616,7 @@ if($_POST) {
                             <hr/>
                             <div class="row-fluid">
                                 <div class="span4">
-                                    <a href="http://simplify.com/commerce/docs/apidoc/customer">
+                                    <a href="https://simplify.com/commerce/docs/apidoc/customer">
                                         <i class="icon-user icon-2x icon-large"></i>
                                         <h4>Customer</h4>
                                     </a>
@@ -624,7 +624,7 @@ if($_POST) {
                                 </div>
                                 <hr class="hidden-middesk" />
                                 <div class="span4">
-                                    <a href="http://simplify.com/commerce/docs/apidoc/deposit">
+                                    <a href="https://simplify.com/commerce/docs/apidoc/deposit">
                                         <i class="icon-money icon-2x icon-large"></i>
                                         <h4>Deposit</h4>
                                     </a>
@@ -632,7 +632,7 @@ if($_POST) {
                                 </div>
                                 <hr class="hidden-middesk" />
                                 <div class="span4">
-                                    <a href="http://simplify.com/commerce/docs/apidoc/invoice">
+                                    <a href="https://simplify.com/commerce/docs/apidoc/invoice">
                                         <i class="icon-file-text icon-2x icon-large"></i>
                                         <h4>Invoice</h4>
                                     </a>
@@ -642,7 +642,7 @@ if($_POST) {
                             <hr/>
                             <div class="row-fluid">
                                 <div class="span4">
-                                    <a href="http://simplify.com/commerce/docs/apidoc/invoiceItem">
+                                    <a href="https://simplify.com/commerce/docs/apidoc/invoiceItem">
                                         <i class="icon-list icon-2x icon-large"></i>
                                         <h4>InvoiceItem</h4>
                                     </a>
@@ -650,7 +650,7 @@ if($_POST) {
                                 </div>
                                 <hr class="hidden-middesk" />
                                 <div class="span4">
-                                    <a href="http://simplify.com/commerce/docs/apidoc/payment">
+                                    <a href="https://simplify.com/commerce/docs/apidoc/payment">
                                         <i class="icon-dollar icon-2x icon-large"></i>
                                         <h4>Payment</h4>
                                     </a>
@@ -658,7 +658,7 @@ if($_POST) {
                                 </div>
                                 <hr class="hidden-middesk" />
                                 <div class="span4">
-                                    <a href="http://simplify.com/commerce/docs/apidoc/plan">
+                                    <a href="https://simplify.com/commerce/docs/apidoc/plan">
                                         <i class="icon-sitemap icon-2x icon-large"></i>
                                         <h4>Plan</h4>
                                     </a>
@@ -668,7 +668,7 @@ if($_POST) {
                             <hr/>
                             <div class="row-fluid">
                                 <div class="span4">
-                                    <a href="http://simplify.com/commerce/docs/apidoc/refund">
+                                    <a href="https://simplify.com/commerce/docs/apidoc/refund">
                                         <i class="icon-rotate-left icon-2x icon-large"></i>
                                         <h4>Refund</h4>
                                     </a>
@@ -676,7 +676,7 @@ if($_POST) {
                                 </div>
                                 <hr class="hidden-middesk" />
                                 <div class="span4">
-                                    <a href="http://simplify.com/commerce/docs/apidoc/subscription">
+                                    <a href="https://simplify.com/commerce/docs/apidoc/subscription">
                                         <i class="icon-calendar icon-2x icon-large"></i>
                                         <h4>Subscription</h4>
                                     </a>
@@ -684,7 +684,7 @@ if($_POST) {
                                 </div>
                                 <hr class="hidden-middesk" />
                                 <div class="span4">
-                                    <a href="http://simplify.com/commerce/docs/apidoc/webhook">
+                                    <a href="https://simplify.com/commerce/docs/apidoc/webhook">
                                         <i class="icon-exchange icon-2x icon-large"></i>
                                         <h4>Webhook</h4>
                                     </a>
