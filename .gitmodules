@@ -1,0 +1,3 @@
+[submodule "simplifycommerce-sdk-php"]
+	path = simplifycommerce-sdk-php
+	url = https://pcheek@bitbucket.org/pcheek/simplifycommerce-sdk-php.git
