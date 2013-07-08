@@ -32,7 +32,7 @@ Once you have had a chance to explore, fill in your details below. This will tra
 
 ```php
 $simplified['title']        = 'Simplified';
-$simplified['description']  = 'Simplified is an example application to help get you started accepting payments with Simplify Commerce by MasterCard.';
+$simplified['description']  = 'Simplified is an example application...';
 $simplified['company']      = 'Simplified, Inc.';
 $simplified['amount']       = '2500'; // $25.00
 ```
